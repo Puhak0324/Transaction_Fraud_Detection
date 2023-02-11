@@ -3,3 +3,5 @@
 
 $ git add .gitattributes
 $ git commit -m "track *.csv files using Git LFS"
+
+git lfs track "*.csv"
