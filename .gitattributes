@@ -3,7 +3,7 @@
 git add .gitattributes
 git commit -m "track *.csv files using Git LFS"
 
-git add file.csv
+git add card_transaction_data.csv
 git push origin WGU_Capstone
 
 git lfs track "*.csv"
