@@ -1,8 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
-git lfs track "*.csv"
-
-git add .gitattributes
-git commit -m "track *.csv files using Git LFS"
-
